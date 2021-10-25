@@ -1,7 +1,7 @@
 # ArchVis Tools
 Support for all issues related to `ArchVisTools` on the Unreal Marketplace
 
-![CineCameraCombined](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/Screenshots/Originals/CineCameraCombined.jpg)
+![CineCameraCombined](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/MarketingImages/CineCameraCombined.png)
 
 ## General Information
 
@@ -22,7 +22,7 @@ ArchVis Tools is a plugin which provides Camera Actors with added functionality 
 
 ### ArchVisCineCamera
 
-![CineCameraCombined](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/Screenshots/Originals/CineCameraProcess.jpg)
+![CineCameraCombined](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/MarketingImages/CineCameraProcess.png)
 
 This plugin features an `ArchVisCineCamera` which can automatically correct the view to look like a 2-point perspective (with the vertical lines being truly vertical). The strength of the correction can be adjusted as required. The `ArchVisCineCamera` also has an experimental feature where we can set a custom NearClippingPlane distance per camera, which is useful for interior shots.
 
@@ -32,7 +32,7 @@ All the properties are accessible in Blueprint and can be animated in Sequencer.
 
 ### Movie Render Queue Passes
 
-![MovieRenderQueue](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/Screenshots/Originals/MovieRenderQueue2.jpg)
+![MovieRenderQueue](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/MarketingImages/MovieRenderQueue2.png)
 
 To render the unique features of the `ArchVisCineCamera`, some custom `Movie Render Queue Passes` were created, based on the existing ones. The following are available:
 - [ArchVis] Deferred Rendering
@@ -44,7 +44,7 @@ To render the unique features of the `ArchVisCineCamera`, some custom `Movie Ren
 
 ### Dataprep Operations
 
-![Dataprep](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/Screenshots/Originals/Dataprep.jpg)
+![Dataprep](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/MarketingImages/Dataprep.png)
 
 Custom Dataprep Operations were created to provide more functionality. The following are available:
 - Branch Merge  [Operation]
