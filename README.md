@@ -74,7 +74,7 @@ Full description of all the available features on the GitHub Wiki Page: https://
 
 **Number of Blueprints:** 5 [Dataprep]
 
-**Number of C++ Classes:** 10 [ArchVis Tools], 9 [AchVis Tools Editor]
+**Number of C++ Classes:** 11 [ArchVis Tools], 9 [AchVis Tools Editor]
 
 **Network Replicated:** NA/Not tested
 
