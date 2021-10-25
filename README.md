@@ -3,6 +3,8 @@ Support for all issues related to `ArchVisTools` on the Unreal Marketplace
 
 ![CineCameraCombined](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/MarketingImages/CineCameraCombined.png)
 
+![GIF](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/MarketingImages/DownTown0.FinalImage%5BArchVis%5DS.gif)
+
 ## General Information
 
 All the functionalities are written in the Wiki page: https://github.com/Voulz/ArchVisTools/wiki  
