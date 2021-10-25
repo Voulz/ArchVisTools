@@ -1,24 +1,17 @@
 <DatasmithUnrealScene>
 	<Version>0.24</Version>
-	<SDKVersion>4.26.0</SDKVersion>
+	<SDKVersion>4.27.0</SDKVersion>
 	<Host>SketchUp</Host>
-	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="Version Unknown"/>
-	<ResourcePath></ResourcePath>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="21.1.299"/>
+	<ResourcePath>C:/Unreal Projects/ArchVisToolsWiki/ArchVisTools/SampleModels/SketchUp</ResourcePath>
 	<User ID="e8ac227747a99c05f10092863fb30278" OS="Windows 10 (Release 2009)"/>
-	<StaticMesh name="M02cbd1f4f3bb3854efdea8c5f3bb1333_1" label="Laura">
-		<file path="ArchVisSample_Assets/M02cbd1f4f3bb3854efdea8c5f3bb1333_1.udsmesh"/>
-		<Size a="5829.327637" x="61.300552" y="0.0" z="170.241699"/>
+	<StaticMesh name="M36f3ba26ccae746263cefcad57f99387_1" label="Cylinder">
+		<file path="ArchVisSample_Assets/M36f3ba26ccae746263cefcad57f99387_1.udsmesh"/>
+		<Size a="73807.53125" x="96.199997" y="96.199997" z="181.0"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="fee3c348d9592ee0d116f0f0bea25485"/>
-		<Material id="16131" name="Laura_Skin-G30e5b569d43797676bb86c1c98fd5113"/>
-		<Material id="16134" name="Laura_Shoes-G6ee58dc50666df5ca41d2227b7d7e607"/>
-		<Material id="16132" name="Laura_Pants-Gd8ba5b17c5d4702a54363756b06dc846"/>
-		<Material id="16135" name="Laura_Shirt2-G7d93bbd2eca60e0160f4cf8ad0e73d78"/>
-		<Material id="16133" name="Laura_Shirt-G35dfa7158bad4a630b9703066b971940"/>
-		<Material id="16136" name="Laura_Belt-G0ea4a548c91c531cd756a50b8c157587"/>
-		<Material id="16138" name="Laura_Glasses-G4d02edbd26a63bbd8820bd0bbfc51458"/>
-		<Material id="16137" name="Laura_Hair-G850d2bc57ea71d93aae1c07c4123c9cd"/>
+		<Hash value="5d6d34be33979d40e9366a6d03095751"/>
+		<Material id="0" name="Default"/>
 	</StaticMesh>
 	<StaticMesh name="Mcef6d5ae9d98d9db6802e868d0196308_1" label="Cubes">
 		<file path="ArchVisSample_Assets/Mcef6d5ae9d98d9db6802e868d0196308_1.udsmesh"/>
@@ -26,52 +19,92 @@
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
 		<Hash value="eb0ad92033376b34f2e37fbe3d91157a"/>
+		<Material id="0" name="Default"/>
 	</StaticMesh>
 	<StaticMesh name="Mcef6d5ae9d98d9db6802e868d0196308_2" label="Cubes">
 		<file path="ArchVisSample_Assets/Mcef6d5ae9d98d9db6802e868d0196308_2.udsmesh"/>
 		<Size a="45000.0" x="100.0" y="100.0" z="100.0"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="3336bb4ac42393f1ae33406589ad9ee1"/>
-		<Material id="16139" name="0074_SeaGreen-Gc7ff4be188e2a810c63f1849d404067c"/>
+		<Hash value="79c2d8a84bb95ba1958f590c159bd46c"/>
+		<Material id="0" name="Default"/>
+		<Material id="1" name="0074_SeaGreen-Lc7ff4be188e2a810c63f1849d404067c"/>
 	</StaticMesh>
-	<StaticMesh name="M36f3ba26ccae746263cefcad57f99387_1" label="Cylinder">
-		<file path="ArchVisSample_Assets/M36f3ba26ccae746263cefcad57f99387_1.udsmesh"/>
-		<Size a="73807.53125" x="96.199997" y="96.199997" z="181.0"/>
+	<StaticMesh name="M02cbd1f4f3bb3854efdea8c5f3bb1333_1" label="Laura">
+		<file path="ArchVisSample_Assets/M02cbd1f4f3bb3854efdea8c5f3bb1333_1.udsmesh"/>
+		<Size a="5829.327637" x="61.300552" y="0.0" z="170.241699"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
-		<Hash value="5d6d34be33979d40e9366a6d03095751"/>
+		<Hash value="dad2f6ce77f1cece59b7c222c744b6b1"/>
+		<Material id="0" name="Default"/>
+		<Material id="1" name="Laura_Skin-L30e5b569d43797676bb86c1c98fd5113"/>
+		<Material id="2" name="Laura_Shoes-L6ee58dc50666df5ca41d2227b7d7e607"/>
+		<Material id="3" name="Laura_Pants-Ld8ba5b17c5d4702a54363756b06dc846"/>
+		<Material id="4" name="Laura_Shirt2-L7d93bbd2eca60e0160f4cf8ad0e73d78"/>
+		<Material id="5" name="Laura_Shirt-L35dfa7158bad4a630b9703066b971940"/>
+		<Material id="6" name="Laura_Belt-L0ea4a548c91c531cd756a50b8c157587"/>
+		<Material id="7" name="Laura_Glasses-L4d02edbd26a63bbd8820bd0bbfc51458"/>
+		<Material id="8" name="Laura_Hair-L850d2bc57ea71d93aae1c07c4123c9cd"/>
 	</StaticMesh>
-	<StaticMesh name="M66790129ae6f5baa756bd588a5e3fe92_1" label="Rectangle_+_Cubes_+_Cylinder">
-		<file path="ArchVisSample_Assets/M66790129ae6f5baa756bd588a5e3fe92_1.udsmesh"/>
+	<StaticMesh name="M6ce6ce475362abfd357d1961b7403623_1" label="Rectangle_+_Cubes_+_Cylinder">
+		<file path="ArchVisSample_Assets/M6ce6ce475362abfd357d1961b7403623_1.udsmesh"/>
 		<Size a="69844.5" x="100.5" y="280.5" z="19.200001"/>
 		<LightmapCoordinateIndex value="-1"/>
 		<LightmapUV value="-1"/>
 		<Hash value="6b29b60833f24dade5afed482e6ea9b0"/>
+		<Material id="0" name="Default"/>
 	</StaticMesh>
-	<ActorMesh name="SU_13909_1" label="Laura" layer="Layer0">
-		<mesh name="M02cbd1f4f3bb3854efdea8c5f3bb1333_1"/>
-		<Transform tx="46.990002" ty="-35.560001" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.292527" qw="0.956257" qhex="00000080000000000DC695BE49CD743F"/>
+	<StaticMesh name="M3bf35e4a1ae935f633972af0b84aaf38_1" label="Group_1">
+		<file path="ArchVisSample_Assets/M3bf35e4a1ae935f633972af0b84aaf38_1.udsmesh"/>
+		<Size a="4627.219727" x="96.199997" y="96.199997" z="0.0"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="6bff46af106b32dda501cd8341c16716"/>
+		<Material id="0" name="Default"/>
+	</StaticMesh>
+	<Camera name="Scene_1" label="Scene_1">
+		<Transform tx="914.295593" ty="865.74231" tz="472.859497" sx="1.0" sy="1.0" sz="1.0" qx="-0.112956" qy="-0.055934" qz="0.888999" qw="-0.44022" qhex="3D55E7BD241B65BD6995633F8F64E1BE"/>
+		<SensorWidth value="36.0"/>
+		<SensorAspectRatio value="1.777778"/>
+		<DepthOfField enabled="1"/>
+		<FocusDistance value="1221.493408"/>
+		<FStop value="5.6"/>
+		<FocalLength value="32.112396"/>
+		<LookAtRollAllowed enabled="0"/>
+		<Post>
+		</Post>
+	</Camera>
+	<Actor name="SU_13909" label="Laura" layer="Layer0">
+		<Transform tx="46.990002" ty="-35.560001" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.319885" qw="0.947456" qhex="000000800000000007C8A3BE7E8C723F"/>
 		<tag value="SU.DEPTH.1" />
 		<tag value="SU.GUID.2caIfLG$CrIPcykDqYyeFY" />
 		<tag value="SU.PATH.0.13909" />
 		<tag value="SU.BEHAVIOR.FaceCamera" />
-	</ActorMesh>
+		<children visible="true">
+			<ActorMesh name="SU_13909_1" label="Laura" layer="Layer0">
+				<mesh name="M02cbd1f4f3bb3854efdea8c5f3bb1333_1"/>
+				<Transform tx="46.990002" ty="-35.560001" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="-0.319885" qw="0.947456" qhex="000000800000000007C8A3BE7E8C723F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2caIfLG$CrIPcykDqYyeFY" />
+				<tag value="SU.PATH.0.13909" />
+			</ActorMesh>
+		</children>
+	</Actor>
 	<Actor name="SU_14417" label="Rectangle_+_Cubes_+_Cylinder" layer="Layer0">
 		<Transform tx="120.830322" ty="-106.713341" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
 		<tag value="SU.DEPTH.1" />
-		<tag value="SU.GUID.0kyFdC36XEqOeiMaaroQYa" />
+		<tag value="SU.GUID.0c80m3jNL1Z8JUjOwSj7$r" />
 		<tag value="SU.PATH.0.14417" />
-		<children visible="true"  selector="false" selection="-1">
+		<children visible="true">
 			<Actor name="SU_14417_14418" label="Cubes" layer="Layer0">
 				<Transform tx="120.830322" ty="-106.713341" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
 				<tag value="SU.DEPTH.2" />
 				<tag value="SU.GUID.3_uXolk8zBaw4z4r0HdFP0" />
 				<tag value="SU.PATH.0.14417.14418" />
-				<children visible="true"  selector="false" selection="-1">
+				<children visible="true">
 					<ActorMesh name="SU_14417_14418_1" label="Cubes" layer="Layer0">
 						<mesh name="Mcef6d5ae9d98d9db6802e868d0196308_1"/>
-						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<material id="0" name="Default"/>
 						<Transform tx="120.830322" ty="-106.713341" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
 						<tag value="SU.DEPTH.3" />
 						<tag value="SU.GUID.3_uXolk8zBaw4z4r0HdFP0" />
@@ -79,7 +112,7 @@
 					</ActorMesh>
 					<ActorMesh name="SU_14417_14418_2" label="Cubes" layer="Layer0">
 						<mesh name="Mcef6d5ae9d98d9db6802e868d0196308_2"/>
-						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<material id="0" name="Default"/>
 						<Transform tx="120.830322" ty="-106.713341" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
 						<tag value="SU.DEPTH.3" />
 						<tag value="SU.GUID.3_uXolk8zBaw4z4r0HdFP0" />
@@ -90,66 +123,238 @@
 			<Actor name="SU_14417_14419" label="Cylinders" layer="Layer0">
 				<Transform tx="-104.550308" ty="302.127472" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
 				<tag value="SU.DEPTH.2" />
-				<tag value="SU.GUID.16FB7vgV56NuMMVQ8qEJSz" />
+				<tag value="SU.GUID.02aDiYMtv1_ArfUgUKFPpA" />
 				<tag value="SU.PATH.0.14417.14419" />
-				<children visible="true"  selector="false" selection="-1">
-					<ActorMesh name="SU_14417_14419_14569_1" label="Cylinder" layer="Layer0">
-						<mesh name="M36f3ba26ccae746263cefcad57f99387_1"/>
-						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
-						<Transform tx="-104.550308" ty="129.14624" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<children visible="true">
+					<Actor name="SU_14417_14419_14721" label="Cylinder" layer="Layer0">
+						<Transform tx="-104.550308" ty="129.14624" tz="0.0" sx="1.0" sy="1.0" sz="1.5" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
 						<tag value="SU.DEPTH.3" />
 						<tag value="SU.GUID.280g23wDP0BQMtPWQJd_4d" />
-						<tag value="SU.PATH.0.14417.14419.14569" />
-					</ActorMesh>
-					<ActorMesh name="SU_14417_14419_14570_1" label="Cylinder" layer="Layer0">
-						<mesh name="M36f3ba26ccae746263cefcad57f99387_1"/>
-						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<tag value="SU.PATH.0.14417.14419.14721" />
+						<children visible="true">
+							<ActorMesh name="SU_14417_14419_14721_1" label="Cylinder" layer="Layer0">
+								<mesh name="M36f3ba26ccae746263cefcad57f99387_1"/>
+								<material id="0" name="Default"/>
+								<Transform tx="-104.550308" ty="129.14624" tz="0.0" sx="1.0" sy="1.0" sz="1.5" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.280g23wDP0BQMtPWQJd_4d" />
+								<tag value="SU.PATH.0.14417.14419.14721" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_14417_14419_14722" label="Cylinder" layer="Layer0">
 						<Transform tx="-50.597244" ty="302.127472" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
 						<tag value="SU.DEPTH.3" />
 						<tag value="SU.GUID.280g23wDP0BQMtPWQJd_4d" />
-						<tag value="SU.PATH.0.14417.14419.14570" />
-					</ActorMesh>
+						<tag value="SU.PATH.0.14417.14419.14722" />
+						<children visible="true">
+							<ActorMesh name="SU_14417_14419_14722_1" label="Cylinder" layer="Layer0">
+								<mesh name="M36f3ba26ccae746263cefcad57f99387_1"/>
+								<material id="0" name="Default"/>
+								<Transform tx="-50.597244" ty="302.127472" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.280g23wDP0BQMtPWQJd_4d" />
+								<tag value="SU.PATH.0.14417.14419.14722" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_14417_14419_14791" label="Square" layer="Layer0">
+						<Transform tx="-104.550308" ty="129.14624" tz="0.0" sx="1.0" sy="1.0" sz="0.5" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1$FGFfai58CAphXyKe6b5Q" />
+						<tag value="SU.PATH.0.14417.14419.14791" />
+						<children visible="true">
+							<ActorMesh name="SU_14417_14419_14791_1" label="Square" layer="Layer0">
+								<mesh name="M3bf35e4a1ae935f633972af0b84aaf38_1"/>
+								<material id="0" name="Default"/>
+								<Transform tx="-104.550308" ty="129.14624" tz="0.0" sx="1.0" sy="1.0" sz="0.5" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1$FGFfai58CAphXyKe6b5Q" />
+								<tag value="SU.PATH.0.14417.14419.14791" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="SU_14417_14724" label="Cylinders" layer="Layer0">
+				<Transform tx="-121.338394" ty="-494.69455" tz="0.0" sx="1.0" sy="1.0" sz="2.0" qx="0.0" qy="0.0" qz="0.511293" qw="0.859406" qhex="00000080000000001AE4023F0F025C3F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.02aDiYMtv1_ArfUgUKFPpA" />
+				<tag value="SU.PATH.0.14417.14724" />
+				<children visible="true">
+					<Actor name="SU_14417_14724_14721" label="Cylinder" layer="Layer0">
+						<Transform tx="30.680471" ty="-577.23407" tz="0.0" sx="1.0" sy="1.0" sz="3.0" qx="0.0" qy="0.0" qz="0.511293" qw="0.859406" qhex="00000080000000001AE4023F0F025C3F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.280g23wDP0BQMtPWQJd_4d" />
+						<tag value="SU.PATH.0.14417.14724.14721" />
+						<children visible="true">
+							<ActorMesh name="SU_14417_14724_14721_1" label="Cylinder" layer="Layer0">
+								<mesh name="M36f3ba26ccae746263cefcad57f99387_1"/>
+								<material id="0" name="Default"/>
+								<Transform tx="30.680471" ty="-577.23407" tz="0.0" sx="1.0" sy="1.0" sz="3.0" qx="0.0" qy="0.0" qz="0.511293" qw="0.859406" qhex="00000080000000001AE4023F0F025C3F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.280g23wDP0BQMtPWQJd_4d" />
+								<tag value="SU.PATH.0.14417.14724.14721" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_14417_14724_14722" label="Cylinder" layer="Layer0">
+						<Transform tx="-95.594223" ty="-447.279663" tz="0.0" sx="1.0" sy="1.0" sz="2.0" qx="0.0" qy="0.0" qz="0.511293" qw="0.859406" qhex="00000080000000001AE4023F0F025C3F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.280g23wDP0BQMtPWQJd_4d" />
+						<tag value="SU.PATH.0.14417.14724.14722" />
+						<children visible="true">
+							<ActorMesh name="SU_14417_14724_14722_1" label="Cylinder" layer="Layer0">
+								<mesh name="M36f3ba26ccae746263cefcad57f99387_1"/>
+								<material id="0" name="Default"/>
+								<Transform tx="-95.594223" ty="-447.279663" tz="0.0" sx="1.0" sy="1.0" sz="2.0" qx="0.0" qy="0.0" qz="0.511293" qw="0.859406" qhex="00000080000000001AE4023F0F025C3F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.280g23wDP0BQMtPWQJd_4d" />
+								<tag value="SU.PATH.0.14417.14724.14722" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_14417_14724_14791" label="Square" layer="Layer0">
+						<Transform tx="30.680471" ty="-577.23407" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.511293" qw="0.859406" qhex="00000080000000001AE4023F0F025C3F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1$FGFfai58CAphXyKe6b5Q" />
+						<tag value="SU.PATH.0.14417.14724.14791" />
+						<children visible="true">
+							<ActorMesh name="SU_14417_14724_14791_1" label="Square" layer="Layer0">
+								<mesh name="M3bf35e4a1ae935f633972af0b84aaf38_1"/>
+								<material id="0" name="Default"/>
+								<Transform tx="30.680471" ty="-577.23407" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.511293" qw="0.859406" qhex="00000080000000001AE4023F0F025C3F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1$FGFfai58CAphXyKe6b5Q" />
+								<tag value="SU.PATH.0.14417.14724.14791" />
+							</ActorMesh>
+						</children>
+					</Actor>
 				</children>
 			</Actor>
 			<ActorMesh name="SU_14417_1" label="Rectangle_+_Cubes_+_Cylinder" layer="Layer0">
-				<mesh name="M66790129ae6f5baa756bd588a5e3fe92_1"/>
-				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<mesh name="M6ce6ce475362abfd357d1961b7403623_1"/>
+				<material id="0" name="Default"/>
 				<Transform tx="120.830322" ty="-106.713341" tz="0.0" sx="1.0" sy="1.0" sz="1.0" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
 				<tag value="SU.DEPTH.2" />
-				<tag value="SU.GUID.0kyFdC36XEqOeiMaaroQYa" />
+				<tag value="SU.GUID.0c80m3jNL1Z8JUjOwSj7$r" />
 				<tag value="SU.PATH.0.14417" />
 			</ActorMesh>
 		</children>
 	</Actor>
-	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="Laura_Skin-G30e5b569d43797676bb86c1c98fd5113"  label="Laura_Skin" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.644480,G=0.479320,B=0.391572,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="Laura_Pants-Gd8ba5b17c5d4702a54363756b06dc846"  label="Laura_Pants" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.021219,G=0.046665,B=0.072272,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="Laura_Shirt-G35dfa7158bad4a630b9703066b971940"  label="Laura_Shirt" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.376262,G=0.012286,B=0.018500,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="Laura_Shoes-G6ee58dc50666df5ca41d2227b7d7e607"  label="Laura_Shoes" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.291771,G=0.135633,B=0.068478,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="Laura_Shirt2-G7d93bbd2eca60e0160f4cf8ad0e73d78"  label="Laura_Shirt2" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.095307,G=0.006049,B=0.008023,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="Laura_Belt-G0ea4a548c91c531cd756a50b8c157587"  label="Laura_Belt" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.114435,G=0.070360,B=0.048172,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="Laura_Hair-G850d2bc57ea71d93aae1c07c4123c9cd"  label="Laura_Hair" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.351533,G=0.242281,B=0.111932,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="Laura_Glasses-G4d02edbd26a63bbd8820bd0bbfc51458"  label="Laura_Glasses" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.127438,G=0.132868,B=0.187821,A=1.000000)"/>
-	</MasterMaterial>
-	<MasterMaterial name="0074_SeaGreen-Gc7ff4be188e2a810c63f1849d404067c"  label="0074_SeaGreen" Type="1" Quality="0" >
-		<KeyValueProperty name="Color" type="Color" val="(R=0.027321,G=0.258183,B=0.095307,A=1.000000)"/>
-	</MasterMaterial>
+	<UEPbrMaterial name="Default">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.500000,G=0.500000,B=0.500000,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Laura_Skin-L30e5b569d43797676bb86c1c98fd5113" label="Laura_Skin">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.644480,G=0.479320,B=0.391572,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Laura_Pants-Ld8ba5b17c5d4702a54363756b06dc846" label="Laura_Pants">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.021219,G=0.046665,B=0.072272,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Laura_Shirt-L35dfa7158bad4a630b9703066b971940" label="Laura_Shirt">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.376262,G=0.012286,B=0.018500,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Laura_Shoes-L6ee58dc50666df5ca41d2227b7d7e607" label="Laura_Shoes">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.291771,G=0.135633,B=0.068478,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Laura_Shirt2-L7d93bbd2eca60e0160f4cf8ad0e73d78" label="Laura_Shirt2">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.095307,G=0.006049,B=0.008023,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Laura_Belt-L0ea4a548c91c531cd756a50b8c157587" label="Laura_Belt">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.114435,G=0.070360,B=0.048172,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Laura_Hair-L850d2bc57ea71d93aae1c07c4123c9cd" label="Laura_Hair">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.351533,G=0.242281,B=0.111932,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="Laura_Glasses-L4d02edbd26a63bbd8820bd0bbfc51458" label="Laura_Glasses">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.127438,G=0.132868,B=0.187821,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<UEPbrMaterial name="0074_SeaGreen-Lc7ff4be188e2a810c63f1849d404067c" label="0074_SeaGreen">
+		<Expressions>
+			<Color Name="Base_Color" constant="(R=0.027321,G=0.258183,B=0.095307,A=1.000000)"/>
+		</Expressions>
+		<Input Name="BaseColor" expression="0" OutputIndex="0"/>
+		<OpacityMaskClipValue value="0.3333"/>
+	</UEPbrMaterial>
+	<MetaData name="SU_13909_DATA" reference="Actor.SU_13909">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Laura"/>
+	</MetaData>
+	<MetaData name="SU_14417_DATA" reference="Actor.SU_14417">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Rectangle + Cubes + Cylinder"/>
+	</MetaData>
+	<MetaData name="SU_14417_14418_DATA" reference="Actor.SU_14417_14418">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Cubes"/>
+	</MetaData>
+	<MetaData name="SU_14417_14419_DATA" reference="Actor.SU_14417_14419">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Cylinders"/>
+	</MetaData>
+	<MetaData name="SU_14417_14419_14721_DATA" reference="Actor.SU_14417_14419_14721">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Cylinder"/>
+	</MetaData>
+	<MetaData name="SU_14417_14419_14722_DATA" reference="Actor.SU_14417_14419_14722">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Cylinder"/>
+	</MetaData>
+	<MetaData name="SU_14417_14419_14791_DATA" reference="Actor.SU_14417_14419_14791">
+		<KeyValueProperty name="Instance" type="String" val="Square"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#1"/>
+	</MetaData>
+	<MetaData name="SU_14417_14724_DATA" reference="Actor.SU_14417_14724">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Cylinders"/>
+	</MetaData>
+	<MetaData name="SU_14417_14724_14721_DATA" reference="Actor.SU_14417_14724_14721">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Cylinder"/>
+	</MetaData>
+	<MetaData name="SU_14417_14724_14722_DATA" reference="Actor.SU_14417_14724_14722">
+		<KeyValueProperty name="Instance" type="String" val=""/>
+		<KeyValueProperty name="Definition" type="String" val="Cylinder"/>
+	</MetaData>
+	<MetaData name="SU_14417_14724_14791_DATA" reference="Actor.SU_14417_14724_14791">
+		<KeyValueProperty name="Instance" type="String" val="Square"/>
+		<KeyValueProperty name="Definition" type="String" val="Group#1"/>
+	</MetaData>
 	<Export Duration="0"/>
 </DatasmithUnrealScene>
