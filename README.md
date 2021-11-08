@@ -80,7 +80,7 @@ Full description of all the available features on the GitHub Wiki Page: https://
 
 **Network Replicated:** NA/Not tested
 
-**Supported Development Platforms:** Successfully packaged for Windows and Mac, tested only on Windows.
+**Supported Development Platforms:** Successfully packaged and tested for Windows, currently working on a Mac version.
 
 **Documentation:** https://github.com/Voulz/ArchVisTools/wiki
 
