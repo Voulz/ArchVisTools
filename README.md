@@ -43,6 +43,7 @@ To render the unique features of the `ArchVisCineCamera`, some custom `Movie Ren
 - [ArchVis] Deferred Rendering (Lighting Only)
 - [ArchVis] Deferred Rendering (Reflections Only)
 - [ArchVis] Path Tracer
+- [ArchVis] Object Id (Limited) [since v1.1]
 
 ### Dataprep Operations
 
