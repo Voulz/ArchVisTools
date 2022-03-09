@@ -1,5 +1,5 @@
 # ArchVis Tools
-Support for all issues related to `ArchVisTools` on the Unreal Marketplace
+Support for all issues related to `ArchVisTools` on the [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/archvis-tools)
 
 ![CineCameraCombined](https://github.com/Voulz/ArchVisTools/blob/main/Wiki/MarketingImages/CineCameraCombined.png)
 
@@ -53,7 +53,7 @@ Custom Dataprep Operations were created to provide more functionality. The follo
 - Branch Merge  [Operation]
 - Build Adjacency  [Operation]
 - Explode  [Operation]
-- Face Camera  [Operation]
+- Face Camera  [Operation] (The operation doesn't currently work on UE5 Preview, but the component can be manually added)
 - Material Name  [Filter]
 - Replace Camera  [Operation]
 - Simplify Hierarchy  [Operation]
