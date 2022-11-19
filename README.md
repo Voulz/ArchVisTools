@@ -54,7 +54,7 @@ To render the unique features of the `ArchVisCineCamera`, some custom `Movie Ren
 
 Custom Dataprep Operations were created to provide more functionality. The following are available:
 - Branch Merge  [Operation]
-- Build Adjacency  [Operation]
+- Build Adjacency  [Operation] (Not compatible with UE5)
 - Explode  [Operation]
 - Face Camera  [Operation] (The operation doesn't currently work on UE5 Preview, but the component can be manually added)
 - Material Name  [Filter]
